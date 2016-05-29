@@ -1,1 +1,4 @@
-print("helloworld")
+print("helloworld");
+
+print("test");
+print("the thire line")
